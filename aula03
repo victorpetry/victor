@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!---sinaliza a versão mais recente do html-->
+
+<html lang="pt-br"-><!--começa a estrutura do html-->
+
+<head> <!---gerencia os dados do site-->
+
+    <meta charset="utf-8"> <!--decodificar o site-->
+
+    <meta name="viewport" content="widht=device-widht,initial-scale=1.0"> <!---tag que auxilia-->
+
+    <title>victor</title> <!---titulo da aba do site-->
+</head>
+<body>
+    <h1>Carros de luxo</h1> <!--estilo de texto 1-->
+    <p>Lorem ipmsum</p> <!---parágrafo-->
+    <h2>titulo 2</h2>
+    <h3> titulo 3</h3>
+    <h4> titulo 4 </h4>
+    <a href="http://decolar.com"><img src="https://cms.imgworlds.com/assets/e3873302-212a-4c3a-aab3-c3bee866903c.jpg?key=home-gallery" alt="dinossauro"></a> <!---img pasta do pc-->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTWm8CIjAjWcm0_0_zBZ91BU5T3hIMk6h5ag&s" alt="montanha russa"> <!---img site-->
+    
+</body>
+</html>
+
+
