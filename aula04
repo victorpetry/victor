@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-widht">
+
+        <title> tabela de futebol</title>
+        </head>
+
+
+        <body>
+        
+
+            <table border="1">
+
+
+               
+                <thead>
+               
+                    <th>Times</th>
+               
+                    <th>pontos</th>
+          
+                </thead>
+          
+                <tbody>
+                
+
+                <tr>
+           
+                    <td>grêmio</td>
+          
+                    <td>22</td>
+
+                </tr>
+
+
+                <td>internacional</td>
+
+                <td>18</td>
+
+
+            </tr>
+
+
+            <td>palmeiras</td>
+
+            <td>15</td>
+
+
+        </tr>
+
+    </tbody>
+
+    <tfoot>
+
+        <tr>
+ 
+            <td colspan="2"><total:03>
+
+        
+        </td>
+ 
+    </tr>
+
+</tfoot>
+            
+                
+            </tr>
+     
+        </table>
+    
+    </body>
+   
+</head>
+
+</html>
